@@ -5,10 +5,13 @@ console.log("hello world");
 function handleSubmit(evt) {
 	evt.preventDefault();
 	
-	console.log('form submit');
+	alert('new submission')
 }
 
 
 let form = document.querySelector('form#contact');
 
 form.addEventListener('submit', handleSubmit);
+
+document.img.addEventListener('mouseover', compliment)
+

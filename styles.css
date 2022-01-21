@@ -36,3 +36,19 @@ input {
 img {
 	max-width: 300px;
 }
+
+p5 {
+	font-size: 50px;
+	background-color: crimson;
+	width: 50px;
+}
+p6 {
+	font-size: 50px;
+	background-color: royalblue;
+	width: max-content;
+}
+div {
+	margin-left: 150px;
+	font-size: 35px;
+	
+}
