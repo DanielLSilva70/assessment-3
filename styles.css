@@ -50,8 +50,11 @@ p6 {
 div {
 	margin-left: 150px;
 	font-size: 35px;
+	border-style: dotted;
 	
 }
 button {
 	background-color: gold;
+	height: 100px;
+
 }
